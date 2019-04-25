@@ -1,7 +1,13 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import './Loading.css';
 
 const Loading = () => {
-  return <div>Loading</div>;
+  return (
+    <Fragment>
+      <div class="lds-dual-ring" />
+      LOADING
+    </Fragment>
+  );
 };
 
 export default Loading;

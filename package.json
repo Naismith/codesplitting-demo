@@ -6,6 +6,7 @@
     "@loadable/component": "^5.9.0",
     "@reach/router": "^1.2.1",
     "antd": "^3.16.5",
+    "p-min-delay": "^3.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0",

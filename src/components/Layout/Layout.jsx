@@ -23,6 +23,9 @@ const MainLayout = ({ children }) => (
         <Menu.Item key="3">
           <Link to="/northot">NorthOT</Link>
         </Menu.Item>
+        <Menu.Item key="4">
+          <Link to="/slow">Slow Page</Link>
+        </Menu.Item>
       </Menu>
     </Header>
     <Content style={{ padding: '0 50px' }}>
